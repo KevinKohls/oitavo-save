@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.cabecalho {
+    background-color: #B85C40;
+    color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 24px 0;
+
+}
+
+.cabecalho-imagem {
+    width: 7%;
+
+
+
+}
+
+.maluca {
+    background-image: linear-gradient(#B85C40, #351818);
+    padding: 50mm;
+    display: flex;
+    justify-content: last baseline;
+    text-align: justify;
+    font-size: 200%;
+}
+
+.maluca-imagem {
+    width: 43%;
+
+}
