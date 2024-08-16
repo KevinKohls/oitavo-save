@@ -34,3 +34,11 @@
     width: 43%;
 
 }
+
+.suculenta { background-color: #B85C40;
+    color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 24px 0;
+}
