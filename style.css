@@ -22,7 +22,7 @@
 }
 
 .maluca {
-    background-color: #B85C40;
+   background-image: linear-gradient(#B85C40, #bb5333 );
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
@@ -36,7 +36,7 @@
 }
 
 .suculenta { 
-    background-color: #B85C40;
+    background-image: linear-gradient(#B85C40, #bb5333);
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
