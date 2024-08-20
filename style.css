@@ -36,7 +36,7 @@
 }
 
 .suculenta { 
-    background-image: linear-gradient(#a0472b,#B85C40, #B85C40);
+    background-image: linear-gradient(#B85C40, #a0472b);
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
