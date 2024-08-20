@@ -22,7 +22,7 @@
 }
 
 .maluca {
-    background-image: linear-gradient(#B85C40, #a0472b);
+    background-image: #B85C40;
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
@@ -36,10 +36,16 @@
 }
 
 .suculenta { 
-    background-image: linear-gradient(#B85C40, #a0472b);
+    background-image:#B85C40;
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
     text-align: justify;
     font-size: 200%;
+}
+
+.rodape{
+background-color: #B85C40;
+color: black;
+
 }
