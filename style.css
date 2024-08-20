@@ -22,7 +22,7 @@
 }
 
 .maluca {
-    background-image: #B85C40;
+    background-color: #B85C40;
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
@@ -36,7 +36,7 @@
 }
 
 .suculenta { 
-    background-image:#B85C40;
+    background-color: #B85C40;
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
