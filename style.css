@@ -5,7 +5,7 @@
 }
 
 .cabecalho {
-    background-color: #B85C40;
+    background-image: linear-gradient(#ff3c00, #B85C40);
     color: #000000;
     display: flex;
     justify-content: space-between;
@@ -22,7 +22,7 @@
 }
 
 .maluca {
-   background-image: linear-gradient(#B85C40, #bb5333 );
+    background-image: linear-gradient(#B85C40, #7a3621);
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
@@ -30,13 +30,12 @@
     font-size: 200%;
 }
 
-.maluca-imagem {
-    width: 43%;
-
+.Foto-da-Nega-Maluca {
+    width: 50%;
 }
 
-.suculenta { 
-    background-image: linear-gradient(#B85C40, #bb5333);
+.suculenta {
+    background-image: linear-gradient(#7a3621, #B85C40);
     padding: 50mm;
     display: flex;
     justify-content: last baseline;
@@ -44,13 +43,17 @@
     font-size: 200%;
 }
 
-.rodape{
-background-color: #B85C40;
-color: black;
-justify-content: last baseline;
+.suculenta-foto {
+    width: 50%;
+}
+
+.rodape {
+    background-image: linear-gradient(#B85C40, #ff3c00);
+    color: black;
+    justify-content: last baseline;
 
 }
 
-.img-insta{
+.img-insta {
     width: 5%;
 }
